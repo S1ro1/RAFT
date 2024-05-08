@@ -1,3 +1,6 @@
+# Author: Matej Sirovatka
+# Based on: https://github.com/princeton-vl/RAFT/blob/master/demo.py
+
 from pathlib import Path
 import sys  # isort:skip
 
